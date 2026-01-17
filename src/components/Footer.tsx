@@ -59,7 +59,7 @@ const Footer = () => {
 
           {/* Copyright */}
           <p className="text-sm text-muted-foreground/60">
-            © 2025 FLOKI TURBO. All rights reserved.
+            © 2026 FLOKI TURBO. All rights reserved.
           </p>
         </motion.div>
       </div>
